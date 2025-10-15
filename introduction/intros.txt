@@ -1,0 +1,43 @@
+python - is a high level programming language used for web development,
+data analysis AI Automation and more.
+its syntax looks like English
+  example;
+  print("hello, world").
+  # to call we used on the terminal
+    python lesson.py
+
+we will learn  print()
+               input()
+               int() converts to integer
+               float() converts and allow input in to decimal
+data types
+python has several basic data types:
+    str => text("Hello")
+    int => Whole numbers(10)
+    float => decimals(3.14)
+    bool => True/False values(True,False)
+    list =>collection of items([1,2,3,4])
+
+
+  we will learn loops 
+    for loop
+    while loop
+    for in range()
+    for if 
+    break and continue loops
+  
+
+  we will also learn 
+  if 
+  if else
+  if elif else
+
+  we will learn 
+  operators
+  arithmetic 
+  comparison
+  simple cal
+  swapping
+  even or odd
+  logical opp
+  
